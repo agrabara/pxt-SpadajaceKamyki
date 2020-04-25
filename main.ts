@@ -43,7 +43,7 @@ ptaszek.set(LedSpriteProperty.Brightness, 100)
 ptaszek.set(LedSpriteProperty.Blink, 300)
 kamyki = []
 let pauza = 1000
-// basic.showString("Sapadajace kamienie")
+basic.showString("Sapadajace kamienie")
 basic.pause(2000)
 basic.clearScreen()
 // tutaj zaczyna się główna pętla programu
